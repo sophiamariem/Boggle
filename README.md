@@ -24,7 +24,7 @@ Here are some examples of valid and invalid words:
 Valid words are scored according to their length, using this table:
 
     word length	  	points
-       3–4		         1
+       3–4		          1
         5		          2
         6		          3
         7		          5
