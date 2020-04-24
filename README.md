@@ -24,11 +24,12 @@ Here are some examples of valid and invalid words:
 Valid words are scored according to their length, using this table:
 
     word length	  	points
-       3–4		      1
-        5		      2
-        6		      3
-        7		      5
-        8+		      11
+       3–4		         1
+        5		          2
+        6		          3
+        7		          5
+        8+		         11
+        
 ## The Qu special case
 In the English language, the letter Q is almost always followed by the letter U. Consequently, the side of one die is printed with the two-letter sequence Qu instead of Q (and this two-letter sequence must be used together when forming words). When scoring, Qu counts as two letters; for example, the word QuEUE scores as a 5-letter word even though it is formed by following a sequence of only 4 dice.
 
